@@ -1,0 +1,18 @@
+Analysis if Algorithm
+
+The theroetical study if computer programme performance and resource usage
+
+What is ins-sorts worst case time?
+  Depend on computer
+  -relative speed (on same machine) //相对速度
+  -absolute speed (on diff machine) //绝对速度
+
+BIG IDEA!   Asymptotic analysis （渐进分析）
+1.Ignore machine deoendent constant
+2.Look at growth of running time.  T(n) as n->∞
+
+Asymptotic notation
+Θ-notation Drop low order terms and ignore leading constans
+
+
+  
